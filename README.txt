@@ -8,13 +8,13 @@ For navigation purposes please see the below explaination of the contents within
 
 |_[Directory]-FortiSLLVPN_SOUTH_AFRICA
 	|_[Directory]Companies Data (Main Folder for all the return data from OSINT searches)
-		|_[File]-Company names - September 09 2021 - Leaked Records - South Africa Fortinet VPN IP Addresses (Excel sheet listing all affected companies)
+		|_[File]-Company names - September 09 2021... (Excel sheet listing all affected companies)
 		|_[File]-FortiVPN_southAfrica.json (IP range,netname,descr,person,phone and address from whois lookups in json format suitable for database insertion.)
-		|__[File]-FortiVPN_southAfrica_LIST.json (data from whois lookups in json format suitable for viewing, use http://jsonviewer.stack.hu/)
+		|__[File]-FortiVPN_southAfrica_LIST.json (data from whois lookups in json format suitable for viewing)
 		|_[File]-IPs.txt (list of all the IP addresses from south africa - source Cognyte)
 		|_[File]-netnames.txt (list of all the netnames returned from whois queries on all IP addresses)
 		|_[File]-whois-all.txt (text file containing all of the whois query results from whois.afrinic.net)
-	|_MaltegoScans (Main folder holding the maltego scans, to download maltego visit: https://www.maltego.com/downloads/)
+	|_MaltegoScans (Folder with maltego scans, to download maltego visit: https://www.maltego.com/downloads/)
 		|_[Directory]-MaltegoIPV4List (Folder which holds excel and csv lists of IP addresses in group size of 49 to accomidate for maltego restrictions)
 			|	|_[File]-one.xlsx (List of 49 IPV4 addresses)
 			|	|_[File]-two.xlsx (List of 49 IPV4 addresses)
