@@ -15,7 +15,7 @@ For navigation purposes please see the below explaination of the contents within
 		|_[File]-netnames.txt (list of all the netnames returned from whois queries on all IP addresses)
 		|_[File]-whois-all.txt (text file containing all of the whois query results from whois.afrinic.net)
 	|_MaltegoScans (Folder with maltego scans, to download maltego visit: https://www.maltego.com/downloads/)
-		|_[Directory]-MaltegoIPV4List (Folder which holds excel and csv lists of IP addresses in group size of 49 to accomidate for maltego restrictions)
+		|_[Directory]-MaltegoIPV4List (Folder which holds excel&csv lists of IP addresses)
 			|	|_[File]-one.xlsx (List of 49 IPV4 addresses)
 			|	|_[File]-two.xlsx (List of 49 IPV4 addresses)
 			|	|_[File]-three.xlsx (List of 49 IPV4 addresses)
