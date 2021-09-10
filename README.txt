@@ -10,7 +10,7 @@ For navigation purposes please see the below explaination of the contents within
 	|_[Directory]Companies Data (Main Folder for all the return data from OSINT searches)
 		|_[File]-Company names - September 09 2021... (Excel sheet listing all affected companies)
 		|_[File]-FortiVPN_southAfrica.json (IP range,netname,descr,person,phone and address from whois lookups in json format suitable for database insertion.)
-		|__[File]-FortiVPN_southAfrica_LIST.json (data from whois lookups in json format suitable for viewing)
+		|__[File]-FortiVPN_southAfrica_LIST.json (whois results in json format)
 		|_[File]-IPs.txt (list of all the IP addresses from south africa - source Cognyte)
 		|_[File]-netnames.txt (list of all the netnames returned from whois queries on all IP addresses)
 		|_[File]-whois-all.txt (text file containing all of the whois query results from whois.afrinic.net)
